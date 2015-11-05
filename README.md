@@ -2,10 +2,10 @@
 Simple Instant Messanger over TCP with nodejs
 
 #Run server
-node main.js
+$node main.js
 
 #Connect to client
-nc|netcat ip port
+$nc|netcat ip port
 
 #Usage:
 Login with username
