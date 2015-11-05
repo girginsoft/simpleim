@@ -1,20 +1,19 @@
 # simpleim
 Simple Instant Messanger over TCP with nodejs
 
-Run server
-#node main.js
+#Run server
+node main.js
 
-Connect to client
+#Connect to client
+nc|netcat ip port
 
-nc|netcat :server_ip :server_port
-
-Usage:
+#Usage:
 Login with username
-#me:{yourusername}
+me:{yourusername}
 
 To send message to user, write this command
-#to:{nameofuser}
+to:{nameofuser}
 
-Then write it. 
+Then write your message. 
 If you want to switch user, you have to write to:{nameofuser} again
 
