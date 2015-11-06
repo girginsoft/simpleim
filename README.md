@@ -3,6 +3,7 @@ Simple Instant Messanger over TCP with nodejs
 #Requirements
  - nodejs
  - redis-server
+
 #Installation
   - copy config.js.example as config.js
   - change parameters in config file
