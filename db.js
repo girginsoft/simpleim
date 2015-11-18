@@ -1,6 +1,6 @@
 "use strict"
 var Redis = require('ioredis');
-var Config = reqire('./config');
+var Config = require('./config');
 var redis = new Redis(Config.redis_port, Config.redis_host);
 
 module.exports = {
