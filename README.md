@@ -5,6 +5,7 @@ Simple Instant Messanger over TCP with nodejs
  - redis-server
 
 #Installation
+  - install dependency with this console command `npm install`
   - copy config.js.example as config.js
   - change parameters in config file
 #Run server
