@@ -1,0 +1,23 @@
+{
+  "name": "simpleim",
+  "version": "1.0.0",
+  "description": "Simple im",
+  "main": "main.js",
+  "dependencies": {
+    "ioredis": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girginsoft/simpleim.git"
+  },
+  "author": "Tugay Özgirgin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/girginsoft/simpleim/issues"
+  },
+  "homepage": "https://github.com/girginsoft/simpleim#readme"
+}
